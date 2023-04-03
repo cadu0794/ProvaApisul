@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 using ProvaAdmissionalCSharpApisul;
 using ProvaApisul.Model;
 
-namespace ProvaApisul.Class
+namespace ProvaApisul.Service
 {
     internal class ElevadorService : IElevadorService
     {

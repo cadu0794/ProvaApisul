@@ -1,4 +1,4 @@
-﻿using ProvaApisul.Class;
+﻿using ProvaApisul.Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;
